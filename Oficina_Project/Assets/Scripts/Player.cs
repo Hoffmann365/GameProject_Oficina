@@ -6,12 +6,14 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     public float speed;
+    private float s;
     public float jumpForce;
     
     private bool isJumping;
     private bool doublejump;
+    private bool isAtk;
     
-    private float movement;
+    public static float movement;
     
     private Rigidbody2D rig;
     private Animator anim;
@@ -20,17 +22,20 @@ public class Player : MonoBehaviour
     {
         rig = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        s = speed;
     }
 
     // Update is called once per frame
     void Update()
     {
         Jump();
+        Attack();
     }
 
     void FixedUpdate()
     {
         Move();
+        
     }
     
     void Move()
@@ -56,7 +61,7 @@ public class Player : MonoBehaviour
     
             transform.eulerAngles = new Vector3(0,180,0);
         }
-        if(movement == 0 && !isJumping)
+        if(movement == 0 && !isJumping && !isAtk)
         {
             anim.SetInteger("transition", 0);
         }
@@ -86,6 +91,32 @@ public class Player : MonoBehaviour
         }
 
     }
+
+    void Attack()
+    {
+        StartCoroutine("Atk");
+    }
+    
+    IEnumerator Atk()
+    {
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            isAtk = true;
+            anim.SetInteger("transition", 3);
+            anim.SetBool("atk", true);
+            yield return new WaitForSeconds(5f);
+            
+        }
+    }
+
+    void EndAnimationATK()
+    {
+        isAtk = false;
+        anim.SetBool("atk", false);
+        anim.SetInteger("transition", 0);
+    }
+
+    
     
     void OnCollisionEnter2D(Collision2D coll)
     {
@@ -94,4 +125,6 @@ public class Player : MonoBehaviour
             isJumping = false;
         }
     }
+    
+    
 }
