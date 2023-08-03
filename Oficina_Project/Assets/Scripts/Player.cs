@@ -8,8 +8,9 @@ public class Player : MonoBehaviour
     public float speed;
     private float s;
     public float jumpForce;
+    public int health;
     
-    private bool isJumping;
+    public static bool isJumping;
     private bool doublejump;
     private bool isAtk;
     
@@ -115,16 +116,41 @@ public class Player : MonoBehaviour
         anim.SetBool("atk", false);
         anim.SetInteger("transition", 0);
     }
+    
+    public void Damage(int dmg)
+    {
+        health -= dmg;
+        //GameController.instance.UpdateLives(health);
+        anim.SetTrigger("hit");
+
+        if (transform.rotation.y == 0)
+        {
+            transform.position += new Vector3(-1f, 0, 0);
+        }
+
+        if (transform.rotation.y == 180)
+        {
+            transform.position += new Vector3(1f, 0, 0);
+        }
+            
+        if (health <= 0)
+        {
+            //chamar o game over
+            health = 0;
+            //GameController.instance.UpdateLives(health);
+            //GameController.instance.GameOver();
+        }
+    }
 
     
     
-    void OnCollisionEnter2D(Collision2D coll)
+    /*void OnCollisionEnter2D(Collision2D coll)
     {
         if(coll.gameObject.layer == 8)
         {
             isJumping = false;
         }
-    }
+    }*/
     
     
 }

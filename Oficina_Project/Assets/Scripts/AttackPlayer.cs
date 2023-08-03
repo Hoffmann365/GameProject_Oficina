@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class AttackPlayer : MonoBehaviour
 {
-    
+    public int damage;
     private BoxCollider2D colliderAtkPLayer;
     // Start is called before the first frame update
     void Start()
@@ -26,13 +26,11 @@ public class AttackPlayer : MonoBehaviour
         }
     }
     
-    /*private void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Enemy")
         {
             collision.GetComponent<Enemy>().Damage(damage);
         }
-
-        ;
-    }*/
+    }
 }

@@ -7,10 +7,14 @@ public class Enemy : MonoBehaviour
     
     public float speed;
     public float walktime;
+    public int damage = 1;
     
     private float timer;
+    
+    public int health;
 
     private bool walkRight = true;
+    private bool alive = true;
     
     private Rigidbody2D rig;
     private Animator anim;
@@ -49,7 +53,7 @@ public class Enemy : MonoBehaviour
         
         
     }
-    /*public void Damage(int dmg)
+    public void Damage(int dmg)
     {
         anim.SetTrigger("hit");
         health -= dmg;
@@ -66,7 +70,7 @@ public class Enemy : MonoBehaviour
         colliderEnemy.isTrigger = true;
         speed = 0;
         anim.SetTrigger("die");
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(0.8f);
         Destroy(gameObject);
     }
 
@@ -76,5 +80,5 @@ public class Enemy : MonoBehaviour
         {
             collision.gameObject.GetComponent<Player>().Damage(damage);
         }
-    }*/
+    }
 }
