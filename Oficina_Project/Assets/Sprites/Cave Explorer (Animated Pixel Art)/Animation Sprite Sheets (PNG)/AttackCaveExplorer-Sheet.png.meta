@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,6 +69,30 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -78,7 +102,301 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: AttackCaveExplorer-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fa4653f68d5884f8909e0600cc7881
+      internalID: 960858518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackCaveExplorer-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0637cad1de5d04b91c4f7eb42f5a4e
+      internalID: -1019296045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackCaveExplorer-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c69290294d12042a1782febe394fc1
+      internalID: -419572785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackCaveExplorer-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4dd9ca002fe934faa73d51489549f5
+      internalID: -1538511175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackCaveExplorer-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a55f4faeaf619f43840305db1d295b1
+      internalID: 2028322752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackCaveExplorer-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4053ee2d9c2594147aeae876e8faf861
+      internalID: -1285797016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackCaveExplorer-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdf0671bd556d049b9043ea2c9f0149
+      internalID: 1238549724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackCaveExplorer-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 24
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e20c06820734248b8588a73b82dcda
+      internalID: -776424056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackCaveExplorer-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2747f2cfdbf892a459317e4e90c5b005
+      internalID: -1625506161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackCaveExplorer-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1219b6702318de44af545b53195176b
+      internalID: 1821631825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackCaveExplorer-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af50ffbe337c1f4cab4551f28e3809b
+      internalID: -57044722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackCaveExplorer-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 0
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fc3952e141cc74f8697425b8a427f2
+      internalID: -2123135753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackCaveExplorer-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c39e78db97bd0948b6745c5b1cbd1cf
+      internalID: -1585228989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackCaveExplorer-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 15
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15e0c42387e5b840a6089ce9bd52ae8
+      internalID: 1444068051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -89,7 +407,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AttackCaveExplorer-Sheet_5: -1285797016
+      AttackCaveExplorer-Sheet_13: 1444068051
+      AttackCaveExplorer-Sheet_6: 1238549724
+      AttackCaveExplorer-Sheet_2: -419572785
+      AttackCaveExplorer-Sheet_3: -1538511175
+      AttackCaveExplorer-Sheet_4: 2028322752
+      AttackCaveExplorer-Sheet_0: 960858518
+      AttackCaveExplorer-Sheet_11: -2123135753
+      AttackCaveExplorer-Sheet_7: -776424056
+      AttackCaveExplorer-Sheet_8: -1625506161
+      AttackCaveExplorer-Sheet_1: -1019296045
+      AttackCaveExplorer-Sheet_10: -57044722
+      AttackCaveExplorer-Sheet_12: -1585228989
+      AttackCaveExplorer-Sheet_9: 1821631825
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

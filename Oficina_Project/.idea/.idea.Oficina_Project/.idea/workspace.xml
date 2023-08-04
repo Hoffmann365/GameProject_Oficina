@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc1fd07c-504a-49d4-b6a3-dcb516f098a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Itens.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Itens/Item Coin.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Itens/Item Coin.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Itens/baú.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Itens/baú.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Itens/baú.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Itens/baú.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Itens/baú_aberto.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Itens/baú_aberto.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Itens/coin.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Itens/coin.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Itens/heart - item.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Itens/heart - item.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Itens/heart.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/Itens/heart.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/UI/Coin.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/UI/Coin.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/UI/Coin.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animations/UI/Coin.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player Physics.physicsMaterial2D" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Player Physics.physicsMaterial2D.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Item Coin.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Item Coin.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Item Heart.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Item Heart.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ItemChest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ItemChest.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ItemCoin.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ItemCoin.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ItemHeart.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ItemHeart.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Shine.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Shine/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Shine/1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Shine/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Shine/2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Shine/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Shine/3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Shine/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Shine/4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Shine/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Shine/5.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Shine/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Shine/6.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Shine/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Shine/7.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Shine/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Shine/8.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Shine/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Shine/Thumbs.db.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Spin.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Spin/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Spin/1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Spin/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Spin/2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Spin/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Spin/3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Spin/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Spin/4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Spin/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Coin/Spin/Thumbs.db.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/Pick heart.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/Pick heart/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/Pick heart/1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/Pick heart/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/Pick heart/2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/Pick heart/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/Pick heart/3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/Pick heart/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/Pick heart/4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/Pick heart/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/Pick heart/5.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/Pick heart/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/Pick heart/6.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/Thumbs.db.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/heart-grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/heart-grey.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/heart-red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/heart-red.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/heart_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/heart and coins/Items/Heart/heart_white.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Explorer (Animated Pixel Art)/Animation Sprite Sheets (PNG)/AttackCaveExplorer-Sheet.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Explorer (Animated Pixel Art)/Animation Sprite Sheets (PNG)/AttackCaveExplorer-Sheet.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Explorer (Animated Pixel Art)/Animation Sprite Sheets (PNG)/DeathCaveExplorer-Sheet.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Explorer (Animated Pixel Art)/Animation Sprite Sheets (PNG)/DeathCaveExplorer-Sheet.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Explorer (Animated Pixel Art)/Animation Sprite Sheets (PNG)/HurtCaveExplorer-Sheet.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Explorer (Animated Pixel Art)/Animation Sprite Sheets (PNG)/HurtCaveExplorer-Sheet.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Explorer (Animated Pixel Art)/Animation Sprite Sheets (PNG)/IdleCaveExplorer-Sheet.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Explorer (Animated Pixel Art)/Animation Sprite Sheets (PNG)/IdleCaveExplorer-Sheet.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Explorer (Animated Pixel Art)/Animation Sprite Sheets (PNG)/WalkingCaveExplorer-Sheet.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Explorer (Animated Pixel Art)/Animation Sprite Sheets (PNG)/WalkingCaveExplorer-Sheet.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-0.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-0.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-10.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-10.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-11.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-11.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-12.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-12.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-13.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-13.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-14.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-14.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-15.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-15.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-16.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-16.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-17.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-17.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-18.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-18.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-19.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-19.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-20.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-20.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-21.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-21.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-22.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-22.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-23.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-23.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-24.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-24.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-4.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-5.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-6.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-7.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-7.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-8.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-8.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-9.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Monster/scorpion-red/scorpion-red-9.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Tileset/objects_misc_animated/object_misc_animated_34.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Tileset/objects_misc_animated/object_misc_animated_34.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Tileset/objects_misc_animated/object_misc_animated_35.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Tileset/objects_misc_animated/object_misc_animated_35.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Tileset/objects_misc_animated/object_misc_animated_36.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Tileset/objects_misc_animated/object_misc_animated_36.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Tileset/objects_misc_animated/object_misc_animated_37.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Tileset/objects_misc_animated/object_misc_animated_37.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Tileset/objects_misc_animated/object_misc_animated_38.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Tileset/objects_misc_animated/object_misc_animated_38.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Tileset/objects_misc_animated/object_misc_animated_39.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Individual PNG files/Tileset/objects_misc_animated/object_misc_animated_39.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Monster sprite sheets/scorpion-red-sheet-x1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cave Platformer Tileset/Monster sprite sheets/scorpion-red-sheet-x1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemChest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemCoin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemHeart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2TTq3N5w5DWrNB3ab7OjAfNCO2Z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\WNDN\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\WNDN\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\WNDN\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.8f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\WNDN\Documents\git\GameProject_Oficina\Oficina_Project -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\WNDN\Documents\git\GameProject_Oficina\Oficina_Project" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.8f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\WNDN\Documents\git\GameProject_Oficina\Oficina_Project -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\WNDN\Documents\git\GameProject_Oficina\Oficina_Project" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc1fd07c-504a-49d4-b6a3-dcb516f098a6" name="Changes" comment="" />
+      <created>1691077228566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691077228566</updated>
+      <workItem from="1691077233992" duration="12288000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
